@@ -1,0 +1,23 @@
+<html>
+    <head>
+    </head>
+    <body>
+    <div>
+    <h4>Thank you for getting in touch with us. We’ll get back to you shortly.</h4>
+    </div>
+    <div>
+        ░░░░░░░░░░░░▄▄</div>
+        <div>░░░░░░░░░░░█░░█</div>
+        <div>░░░░░░░░░░░█░░█</div>
+        <div>░░░░░░░░░░█░░░█</div>
+        <div>░░░░░░░░░█░░░░█</div>
+        <div>███████▄▄█░░░░░██████▄</div>
+        <div>▓▓▓▓▓▓█░░░░░░░░░░░░░░█</div>
+        <div>▓▓▓▓▓▓█░░░░░░░░░░░░░░█</div>
+        <div>▓▓▓▓▓▓█░░░░░░░░░░░░░░█</div>
+        <div>▓▓▓▓▓▓█░░░░░░░░░░░░░░█</div>
+        <div>▓▓▓▓▓▓█░░░░░░░░░░░░░░█</div>
+        <div>▓▓▓▓▓▓█████░░░░░░░░░█</div>
+<div>██████▀░░░░▀▀██████▀</div>
+    </body>
+</html>
