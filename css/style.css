@@ -281,6 +281,19 @@ p {
   padding-bottom: 40px;
 }
 
+/* services */
+#services {
+  text-align: center;
+}
+#services h3 {
+  color: #202020;
+  line-height: 4px;
+}
+#services .services-des {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
 /* contact section */
 #contact {
   background: #f9f9f9;
