@@ -283,26 +283,17 @@ p {
 
 /* services */
 #services {
-  padding-top: 100px;
-  background: #f9f9f9;
-  text-align: center;
-  }
-#services .container {
-  width: 100%;
-  padding: 0;
-  margin: 0;
-}
-#services {
   text-align: center;
 }
 #services h3 {
   color: #202020;
   line-height: 4px;
 }
-#services .services-des {
+#services .team-des {
   padding-top: 20px;
   padding-bottom: 40px;
 }
+
 
 /* contact section */
 #contact {
