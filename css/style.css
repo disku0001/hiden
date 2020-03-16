@@ -41,7 +41,7 @@ p {
 }
 
 #about,
-#team, #contact {
+#team, #contact, #services {
 	padding-top: 100px;
 	padding-bottom: 100px;
 }
@@ -282,6 +282,16 @@ p {
 }
 
 /* services */
+#services {
+  padding-top: 100px;
+  background: #f9f9f9;
+  text-align: center;
+  }
+#services .container {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
 #services {
   text-align: center;
 }
