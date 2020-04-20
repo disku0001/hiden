@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: donomono.website
+Token: 44d9b4f6a876d5c220be3811b13242ba89060624ad28d33daeaa63b31b8a9cb4
